@@ -5,8 +5,8 @@ var validation = new Validation();
 
 function addUser(params) {
   console.log("đây là addUser đã làm xong của phong2");
-}
 
+}
 
 function getEle(id) {
   return document.getElementById(id);
